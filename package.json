@@ -1,7 +1,9 @@
 {
   "name": "nfo-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Kodi's nfo file generator",
+  "homepage": "https://github.com/cybuhh/nfo-generator",
+  "repository": "git@github.com:cybuhh/nfo-generator.git",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +11,7 @@
   "bin": {
     "nfo-generator": "./bin/nfo-generator.sh"
   },
-  "author": "",
+  "author": "cybuhh",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^5.16.0",
