@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-    files_ext: [
-        'mp4', 'mkv', 
-    ]
+  files_ext: [
+    'mp4', 'mkv',
+  ],
 };
